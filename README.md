@@ -1,4 +1,4 @@
-### 📂 Projeto: Landing Page
+### 📂 Projeto: Site Pessoal
 #### Janderson Silveira
 Site pessoal, desenvolvido para profissional coach, totalmente personalizado, leve e responsivo.
 O layout do tema se adapta perfeitamente em diversos dispositivos móveis e navegadores.
