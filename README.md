@@ -3,7 +3,7 @@
 Site pessoal, desenvolvido para profissional coach, totalmente personalizado, leve e responsivo.
 O layout do tema se adapta perfeitamente em diversos dispositivos móveis e navegadores.
 
-🔗 https://github.com/michelfariasazevedo/lp-jandersonsilveira.git
+🔗 https://michelfariasazevedo.github.io/lp-jandersonsilveira/
 ##
 
 ✔️ Possui:
